@@ -5,7 +5,9 @@
 # EpMedia
 The video processing framework based on FFmpeg developed on Android is simple, easy to use, and small in size, helping users quickly realize video processing functions. Contains the following functions: editing, cropping, rotating, mirroring, merging, separating, variable speed, adding LOGO, adding filters, adding background music, accelerating and decelerating video, rewinding audio and video. 
 
-<a href="https://github.com/yangjie10930/EpMediaDemo" target="_blank">Demo</a>   
+<a href="https://github.com/yangjie10930/EpMediaDemo" target="_blank">Demo</a>
+
+This repository now also contains a simple sample application under the `app` module. It can be installed on a device to demonstrate the basic features of the library.
 
 ##### V1.0.0 version update instructions
 1. Update FFmpeg to version 4.2.2, compile with ndk-r21, use clang tool;
