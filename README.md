@@ -7,7 +7,9 @@
 
 好用的话麻烦给个star,感谢您的支持与鼓励O(∩_∩)O
 
-<a href="https://github.com/yangjie10930/EpMediaDemo" target="_blank">Demo点这里</a>   
+<a href="https://github.com/yangjie10930/EpMediaDemo" target="_blank">Demo点这里</a>
+
+本仓库的 `app` 模块也提供了一个简单的演示应用，可以直接在设备上运行体验库的基本功能。
 
 ##### V1.0.0版本更新说明
 1. 更新FFmpeg至4.2.2版本，使用ndk-r21编译，采用clang工具;
